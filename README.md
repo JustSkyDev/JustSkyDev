@@ -19,6 +19,7 @@
         Hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       </h1>
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     </div>
   </div>
   
@@ -36,7 +37,7 @@
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="38" height="38"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
@@ -54,11 +55,12 @@
   
   ### 🔥 My stats : 
   
-  <div align="center">
-    <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustSkyDev&theme=dark&background=000000" />
+  <div id="stats-b">
+    <a href="https://git.io/streak-stats"> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustSkyDev&theme=dark&background=000000" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustSkyDev&layout=compact&theme=vision-friendly-dark" />
     </a>
   </div>
-  
-  
-  
 </div>
