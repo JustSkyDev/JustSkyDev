@@ -28,7 +28,7 @@
   </strong>
   <br />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=JustSkyDev&style=for-the-badge&color=orange&label=VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=JustSkyDev&style=for-the-badge&color=blue&label=Views+Count" />
 </p>
 
 ---
