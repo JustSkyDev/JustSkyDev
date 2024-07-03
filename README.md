@@ -1,36 +1,43 @@
-<h2 align="center">
-  <samp>+ Hey There! I am
-    <a href="https://github.com/JustSkyDev" style="color: red">
-      JustSkyDev
-    </a>
-    +
-  </samp>
-</h2>
+<div align="center">
+  <h3>
+    <samp>+ Hey There! I am
+      <a href="https://github.com/JustSkyDev">
+        JustSkyDev
+      </a>
+      +
+    </samp>
+  </h3>
+  <p>
+    <em>
+      - Software Engineer & Embedded System Engineer & AI / ML -
+    </em>
+  </p>
+</div>
 
-<p align="center">
-  <em>
-    - Software Engineer & Embedded System Engineer & A.I / M.L -
-  </em>
-</p>
+---
 
-<h2 align="center">
+<h3 align="center">
   <samp>
     ⬇ ABOUT ⬇
   </samp>
-</h2>
+</h3>
 
 <p align="center">
-  Hi there! I’m a passionate Software Engineer, specializing in web technologies, AI, and embedded systems. With a knack for problem-solving, I write clean, efficient code that powers innovative solutions. When I’m not coding, you’ll find me exploring new tech trends or diving into machine learning projects. Let’s connect and build something amazing!
+  <strong>
+    Hi there! I’m a passionate Software Engineer, specializing in web technologies, AI, and embedded systems. With a knack for problem-solving, I write clean, efficient code that powers innovative solutions. When I’m not coding, you’ll find me exploring new tech trends or diving into machine learning projects. Let’s connect and build something amazing!
+  </strong>
   <br />
   <br />
   <img src="https://komarev.com/ghpvc/?username=JustSkyDev&style=for-the-badge&color=orange&label=VIEWS" />
 </p>
 
-<h2 align="center">
+---
+
+<h3 align="center">
   <samp>
     ⬇ TOOLS & PROGRAMING LANGUAGES ⬇
   </samp>
-</h2>
+</h3>
 
 <p align="center">
   <em>
@@ -43,7 +50,7 @@
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"></a>
   <br />
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
@@ -57,7 +64,7 @@
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
   <br />
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
@@ -74,7 +81,7 @@
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <br />
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
@@ -90,12 +97,12 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="https://ngrok.com/"><img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"></a>
   <br />
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
   <em>
-    ⬐ A.I & M.L ━
+    ⬐ AI / ML ━
   </em>
   <br />
   <br />
@@ -104,7 +111,7 @@
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
   <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></a>
   <br />
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
@@ -117,7 +124,7 @@
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://img.shields.io/badge/STM32-2CA5E0?style=for-the-badge&logo=STMicroelectronics&logoColor=white"></a>
   <a href="https://www.espressif.com/"><img src="https://img.shields.io/badge/Espressif-000000?style=for-the-badge&logo=Espressif&logoColor=white"></a>
   <br />
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
@@ -131,14 +138,16 @@
   <a href="https://www.st.com/en/development-tools/stm32cubemx.html"><img src="https://img.shields.io/badge/CubeMX-2CA5E0?style=for-the-badge&logo=STMicroelectronics&logoColor=white"></a>
   <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="https://img.shields.io/badge/CubeIDE-2CA5E0?style=for-the-badge&logo=STMicroelectronics&logoColor=white"></a>
   <br />
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<h2 align="center">
+---
+
+<h3 align="center">
   <samp>
     ⬇ STATS ⬇
   </samp>
-</h2>
+</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustSkyDev&theme=dark&background=000000" />
@@ -146,11 +155,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustSkyDev&layout=compact&theme=vision-friendly-dark" />
 </div>
 
-<h2 align="center">
+---
+
+<h3 align="center">
   <samp>
     ⬇ SOCIAL ⬇
   </samp>
-</h2>
+</h3>
 
 <p align="center">
   Let's connect and stay in touch! You can find me on various social media platforms:
