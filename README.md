@@ -24,7 +24,7 @@
 
 <p align="center">
   <strong>
-    Hi there! I’m a passionate Software Engineer, specializing in web technologies, AI, and embedded systems. With a knack for problem-solving, I write clean, efficient code that powers innovative solutions. When I’m not coding, you’ll find me exploring new tech trends or diving into machine learning projects. Let’s connect and build something amazing!
+    Hello everyone! I am JustSkyDev, a software engineer, embedded systems engineer, AI & ML developer, website developer & technologist, and fullstack developer, and I love Fried Rice.
   </strong>
   <br />
   <br />
