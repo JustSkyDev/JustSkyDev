@@ -24,7 +24,7 @@
 
 <p align="center">
   <strong>
-    Hello everyone! I am JustSkyDev, a software engineer, embedded systems engineer, AI & ML developer, website developer & technologist, and fullstack developer, and I love Fried Rice.
+    Hello everyone! I am JustSkyDev, a Software engineer, Embedded systems engineer, AI & ML developer, Website developer & technologist, and Fullstack developer, and I love Fried Rice.
   </strong>
   <br />
   <br />
